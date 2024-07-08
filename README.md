@@ -1,4 +1,4 @@
-## T20 Cricket Data Analytics
+## T20 Cricket Data Analytics Dashboard
 
 - Created a Power BI report to identify top 11 players for a T20 cricket team by scraping data from espncricinfo.
 - Transformed the data with Pandas and evaluated various player Performance metrics.
